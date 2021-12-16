@@ -1,1 +1,1 @@
-# ts-codegen
+# ts-codegen-dsl

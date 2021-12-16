@@ -5788,9 +5788,9 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"ts-codegen@workspace:.":
+"ts-codegen-dsl@workspace:.":
   version: 0.0.0-use.local
-  resolution: "ts-codegen@workspace:."
+  resolution: "ts-codegen-dsl@workspace:."
   dependencies:
     "@types/jest": ^27.0.3
     "@types/node": ^14.18.0
