@@ -156,7 +156,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^14.11.2":
+"@types/node@npm:^14.18.0":
   version: 14.18.0
   resolution: "@types/node@npm:14.18.0"
   checksum: b120c26fe5f30bc358e861db8d7e401e419d14bd9dd25c022f3c2ea8b0b429d4c9efd77ad5d6d2a8bde61702a6786fb74d409f1b2cbb61c79133e2a65aab4fb1
@@ -3037,9 +3037,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ts-codegen@workspace:."
   dependencies:
-    "@types/node": ^14.11.2
+    "@types/node": ^14.18.0
     sijiaoh-gts: ^0.6.1
-    typescript: ^4.0.3
+    typescript: ^4.5.4
   languageName: unknown
   linkType: soft
 
@@ -3126,7 +3126,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-typescript@^4.0.3:
+typescript@^4.5.4:
   version: 4.5.4
   resolution: "typescript@npm:4.5.4"
   bin:
@@ -3136,7 +3136,7 @@ typescript@^4.0.3:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.0.3#~builtin<compat/typescript>":
+"typescript@patch:typescript@^4.5.4#~builtin<compat/typescript>":
   version: 4.5.4
   resolution: "typescript@patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=32657b"
   bin:
