@@ -1,9 +1,6 @@
 {
   "name": "ts-codegen",
   "packageManager": "yarn@3.1.1",
-  "dependencies": {
-    "sijiaoh-gts": "^0.6.1"
-  },
   "devDependencies": {
     "@types/node": "^14.18.0",
     "sijiaoh-gts": "^0.6.1",
